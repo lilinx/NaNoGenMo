@@ -1,4 +1,4 @@
-NaNoGenMo
+NaNoGenMo (actually, this is only a by-product of my NaNoGenMo entry)
 =========
 This is a script that aims at randomly generating verses from Ennius Annals. It is inspired by Cicero's statement about atomist theories.
 
